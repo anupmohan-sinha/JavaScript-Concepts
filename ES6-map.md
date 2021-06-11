@@ -17,4 +17,4 @@ var resultArr = arr.map(function(item, index){
 })
 console.log(resultArr);
 
-**Output** :- [{key: 0, value: 1}, {key: 1, value: 16}, {key: 2, value: 9}, {key: 3, value: 49}, {key: 4, value: 81}]
+**Output** :- <font size="1"> [{key: 0, value: 1}, {key: 1, value: 16}, {key: 2, value: 9}, {key: 3, value: 49}, {key: 4, value: 81}] </font>
